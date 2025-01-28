@@ -1,3 +1,3 @@
 # Routers folder
 
-Routers chứa các trang (Home, About, Contact, ...)
+Routers dùng để cấu hình định tuyến
